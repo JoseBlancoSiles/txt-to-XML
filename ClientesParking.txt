@@ -1,0 +1,10 @@
+00000001 12735983H Antonio GonzálezDomínguez 1543KHD Ford Mondeo Gris Sí 21/07/2021 -
+00000002 73459237K Mikel PérezUrquijo 7452JKL Toyota Yaris Rojo No 19/02/2018 31/12/2022
+00000003 17243117M Nerea LópezMercader 1987CBD Opel Corsa Blanco No 17/04/2017 -
+00000004 52437672F Francisco GarcíaPereda 4659HDF Seat Toledo Negro Sí 21/06/2014 30/10/2019
+00000005 19378821W Ana MongeCruz 2854LBT Renault Austral Rojo No 23/07/2016 -
+00000006 25334187P Luis GómezTello 8943KDC Citroen C5 Gris No 07/01/2022 -
+00000007 32268453R Andrea RodríguezMelón 5726DXZ Toyota Corolla Verde No 14/03/2020 -
+00000008 12844538Q Lidia ValentínRoca 8935FGD BMW S3 Azul No 18/02/2019 -
+00000009 32175672R Felipe TejeroGil 2123JXL SsangYong Rodius Blanco Sí 25/10/2022 -
+00000010 37264556Z María VázquezRamos 4639GDT Audi A6 Blanco No 01/03/2023 -

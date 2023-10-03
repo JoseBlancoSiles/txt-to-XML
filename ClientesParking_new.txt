@@ -1,0 +1,10 @@
+1 12735983H AntonioGonzálezDomínguez 1543KHD Mondeo Gris Sí 21/07/2021 -
+2 73459237K MikelPérezUrquijo 7452JKL Yaris Rojo No 19/02/2018 31/12/2022
+3 17243117M NereaLópezMercader 1987CBD Corsa Blanco No 17/04/2017 -
+4 52437672F FranciscoGarcíaPereda 4659HDF Toledo Negro Sí 21/06/2014 30/10/2019
+5 19378821W AnaMongeCruz 2854LBT Austral Rojo No 23/07/2016 -
+6 25334187P LuisGómezTello 8943KDC C5 Gris No 07/01/2022 -
+7 32268453R AndreaRodríguezMelón 5726DXZ Corolla Verde No 14/03/2020 -
+8 12844538Q LidiaValentínRoca 8935FGD S3 Azul No 18/02/2019 -
+9 32175672R FelipeTejeroGil 2123JXL Rodius Blanco Sí 25/10/2022 -
+10 37264556Z MaríaVázquezRamos 4639GDT A6 Blanco No 01/03/2023 -

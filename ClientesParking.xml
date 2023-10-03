@@ -1,0 +1,132 @@
+<parking>
+    <cliente num_cliente="1">
+        <nif>12735983H</nif>
+        <nombre>Antonio</nombre>
+        <apellidos>GonzálezDomínguez</apellidos>
+        <coche marca="Ford">
+            <modelo>Mondeo</modelo>
+            <color>Gris</color>
+            <matricula>1543KHD</matricula>
+            <bola>Sí</bola>
+        </coche>
+        <fecha_alta>21/07/2021</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="2">
+        <nif>73459237K</nif>
+        <nombre>Mikel</nombre>
+        <apellidos>PérezUrquijo</apellidos>
+        <coche marca="Toyota">
+            <modelo>Yaris</modelo>
+            <color>Rojo</color>
+            <matricula>7452JKL</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>19/02/2018</fecha_alta>
+        <fecha_baja>31/12/2022</fecha_baja>
+    </cliente>
+    <cliente num_cliente="3">
+        <nif>17243117M</nif>
+        <nombre>Nerea</nombre>
+        <apellidos>LópezMercader</apellidos>
+        <coche marca="Opel">
+            <modelo>Corsa</modelo>
+            <color>Blanco</color>
+            <matricula>1987CBD</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>17/04/2017</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="4">
+        <nif>52437672F</nif>
+        <nombre>Francisco</nombre>
+        <apellidos>GarcíaPereda</apellidos>
+        <coche marca="Seat">
+            <modelo>Toledo</modelo>
+            <color>Negro</color>
+            <matricula>4659HDF</matricula>
+            <bola>Sí</bola>
+        </coche>
+        <fecha_alta>21/06/2014</fecha_alta>
+        <fecha_baja>30/10/2019</fecha_baja>
+    </cliente>
+    <cliente num_cliente="5">
+        <nif>19378821W</nif>
+        <nombre>Ana</nombre>
+        <apellidos>MongeCruz</apellidos>
+        <coche marca="Renault">
+            <modelo>Austral</modelo>
+            <color>Rojo</color>
+            <matricula>2854LBT</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>23/07/2016</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="6">
+        <nif>25334187P</nif>
+        <nombre>Luis</nombre>
+        <apellidos>GómezTello</apellidos>
+        <coche marca="Citroen">
+            <modelo>C5</modelo>
+            <color>Gris</color>
+            <matricula>8943KDC</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>07/01/2022</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="7">
+        <nif>32268453R</nif>
+        <nombre>Andrea</nombre>
+        <apellidos>RodríguezMelón</apellidos>
+        <coche marca="Toyota">
+            <modelo>Corolla</modelo>
+            <color>Verde</color>
+            <matricula>5726DXZ</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>14/03/2020</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="8">
+        <nif>12844538Q</nif>
+        <nombre>Lidia</nombre>
+        <apellidos>ValentínRoca</apellidos>
+        <coche marca="BMW">
+            <modelo>S3</modelo>
+            <color>Azul</color>
+            <matricula>8935FGD</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>18/02/2019</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="9">
+        <nif>32175672R</nif>
+        <nombre>Felipe</nombre>
+        <apellidos>TejeroGil</apellidos>
+        <coche marca="SsangYong">
+            <modelo>Rodius</modelo>
+            <color>Blanco</color>
+            <matricula>2123JXL</matricula>
+            <bola>Sí</bola>
+        </coche>
+        <fecha_alta>25/10/2022</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+    <cliente num_cliente="10">
+        <nif>37264556Z</nif>
+        <nombre>María</nombre>
+        <apellidos>VázquezRamos</apellidos>
+        <coche marca="Audi">
+            <modelo>A6</modelo>
+            <color>Blanco</color>
+            <matricula>4639GDT</matricula>
+            <bola>No</bola>
+        </coche>
+        <fecha_alta>01/03/2023</fecha_alta>
+        <fecha_baja>-</fecha_baja>
+    </cliente>
+</parking>
